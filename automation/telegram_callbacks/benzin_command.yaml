@@ -1,6 +1,7 @@
 ---
 # Send fuel prices
-# group.all_fuel_sensors
+# Integration: https://www.home-assistant.io/integrations/tankerkoenig/
+# Grouped all gas stations into: group.all_fuel_sensors
 alias: benzinCommand
 id: 1f17b5a2-16bd-4b6c-aab0-fce9174702d8
 description: "Antwortet auf den /benzin Befehl"
