@@ -15,7 +15,14 @@ Here I put some home assistant files that I want to share with everyone. E.g. sc
 - [Tankerkönig](https://www.home-assistant.io/integrations/tankerkoenig/)
 - 
 
-## Used custom components
+## HACS
+
+### Integrations
 
 - [Multiscrape](https://github.com/danieldotnl/ha-multiscrape)
 - [AbfallPlus](https://github.com/Bouni/abfallplus)
+
+### Frontend
+
+- [Mushroom](https://github.com/piitaya/lovelace-mushroom)
+- [Decluttering Card](https://github.com/custom-cards/decluttering-card)
