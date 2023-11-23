@@ -1,7 +1,7 @@
 {
   "name": "home_assistant_share",
   "dependencies": {
-    "multiscrape" : "danieldotnl/ha-multiscrape",
+    "multiscrape" : "danieldotnl/ha-multiscrape#master",
     "abfallplus": "Bouni/abfallplus"
   }
 }
