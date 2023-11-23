@@ -26,3 +26,4 @@ Here I put some home assistant files that I want to share with everyone. E.g. sc
 
 - [Mushroom](https://github.com/piitaya/lovelace-mushroom)
 - [Decluttering Card](https://github.com/custom-cards/decluttering-card)
+- [card mod](https://github.com/thomasloven/lovelace-card-mod)
