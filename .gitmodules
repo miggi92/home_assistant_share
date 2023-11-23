@@ -1,3 +1,6 @@
 [submodule "custom_components/multiscrape"]
 	path = custom_components/multiscrape
 	url = https://github.com/danieldotnl/ha-multiscrape.git
+[submodule "custom_components/abfallplus"]
+	path = custom_components/abfallplus
+	url = https://github.com/Bouni/abfallplus.git
